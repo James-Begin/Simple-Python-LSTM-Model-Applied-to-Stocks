@@ -7,7 +7,7 @@ Once trained, the model is used to predict the next day's stock price from the s
 
 ![LSTModelpythonFB](https://user-images.githubusercontent.com/103123677/162008654-b8593316-0dfb-45d6-aa16-e6da18e1334e.png)
 
-Dependencies: 
+Dependencies:\
   NumPy: pip install numpy\
   matplotlib: pip install matplotlib\
   pandas: pip install pandas\

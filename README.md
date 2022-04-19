@@ -13,5 +13,5 @@ Once trained, the model is used to predict the next day's stock price from the s
 >pandas: pip install pandas\
 >pandas-datareader: pip install pandas-datareader\
 >tensorflow: pip install tensorflow\
->scikit learn: pip install scikit-learn\
+>scikit learn: pip install scikit-learn
   

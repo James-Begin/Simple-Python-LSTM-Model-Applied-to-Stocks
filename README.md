@@ -5,6 +5,8 @@ The model is a basic LSTM template with 3 LSTM layers, each with 50 units each a
 
 Once trained, the model is used to predict the next day's stock price from the start of 2020 to current day. These predictions are plotted and compared to the actual stock price of that day. Then, the next day's prediction is returned.
 
+Keep in mind that this should not be used to make financial decisions. This model does not take into account current events or news and is more of a fun application of neural networks.
+
 ![LSTModelpythonFB](https://user-images.githubusercontent.com/103123677/162008654-b8593316-0dfb-45d6-aa16-e6da18e1334e.png)
 
 **Dependencies:**
